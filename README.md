@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QuizMaster
 QuizMaster is platform that help to increase knowledge and 
 # Getting Started with Create React App
